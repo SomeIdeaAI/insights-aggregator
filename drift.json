@@ -1,0 +1,1 @@
+{"generated_at": "2026-10-17T23:59:56.163805+00:00", "window_days": 21, "llm": false, "points": 94, "drifts": [{"firm": "Bank of America", "topic": "equities", "from": "neutral", "to": "bearish", "from_date": "2026-10-16", "to_date": "2026-10-17", "score": -1.0, "n": 4}]}
